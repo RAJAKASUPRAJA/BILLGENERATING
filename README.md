@@ -1,12 +1,44 @@
-# Flask Bill App
+# Bill Generating Web App 💰
 
-This is a simple Flask app that shows a bill summary based on user input.
+This is a simple **Flask-based web app** that allows users to generate a bill summary based on item name, quantity, and price.
 
-## 💻 Output Screenshot
+---
 
-![Input](input.png)
+## 🔧 Technologies Used
+- Python 3
+- Flask 2.3.3
+- HTML/CSS
 
+---
 
-## 💻 Output Screenshot
+## 📸 Screenshots
 
-![Output](output.png)
+### 🖊 Input Page
+![Input Page](input.jpg)
+
+### ✅ Output Page
+![Output Page](output.jpg)
+
+---
+
+## 🚀 How to Run
+
+1. Install dependencies:
+    ```
+    pip install -r requirements.txt
+    ```
+
+2. Run the app:
+    ```
+    python app.py
+    ```
+
+3. Open browser and go to:
+    ```
+    http://localhost:5000
+    ```
+
+---
+
+## 🗂 Project Structure
+
