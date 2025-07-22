@@ -1,0 +1,17 @@
+<!-- templates/bill.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bill</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body class="container mt-4">
+  <h2>Bill Summary</h2>
+  <p><strong>Item:</strong> {{ item }}</p>
+  <p><strong>Quantity:</strong> {{ quantity }}</p>
+  <p><strong>Price per item:</strong> ₹{{ price }}</p>
+  <p><strong>Total:</strong> ₹{{ total }}</p>
+  <a href="/" class="btn btn-secondary">Back</a>
+</body>
+</html>
