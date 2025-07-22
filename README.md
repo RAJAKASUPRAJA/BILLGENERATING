@@ -1,4 +1,4 @@
-# Bill Generating Web App 💰
+# Bill Generating Web App 
 
 This is a simple **Flask-based web app** that allows users to generate a bill summary based on item name, quantity, and price.
 
@@ -11,12 +11,12 @@ This is a simple **Flask-based web app** that allows users to generate a bill su
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🖊 Input Page
+### Input Page
 ![Input Page](input.jpg)
 
-### ✅ Output Page
+### Output Page
 ![Output Page](output.jpg)
 
 
